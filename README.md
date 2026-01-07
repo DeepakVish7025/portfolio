@@ -82,12 +82,8 @@ Currently, I am actively looking for **internship / fresher / entry-level opport
 
 ## 📫 Connect With Me
 
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **linkedin.com/in/yourprofile**
-- 🌐 Portfolio: **your-portfolio-link**
-- 🐙 GitHub: **github.com/yourusername**
-
----
+- 📧 Email: **dv2592889@gmail.com**
+  
 
 ## ⚡ Fun Fact
 I believe **learning by building projects** is the fastest way to grow as a developer 🚀
