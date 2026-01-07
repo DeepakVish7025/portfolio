@@ -1,0 +1,37 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners -->
+  <rect width="400" height="400" rx="40" fill="#000000"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="380" height="380" rx="35" fill="none" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Main monogram "DV" -->
+  <g transform="translate(200, 200)">
+    <!-- Letter D -->
+    <path d="M -80 -70 L -80 70 Q -80 90 -50 90 Q 0 90 20 50 Q 30 30 30 0 Q 30 -30 20 -50 Q 0 -90 -50 -90 Q -80 -90 -80 -70 Z M -60 -65 Q -60 -75 -50 -75 Q -10 -75 5 -45 Q 15 -25 15 0 Q 15 25 5 45 Q -10 75 -50 75 Q -60 75 -60 65 Z" 
+          fill="#ffffff" 
+          stroke="#ffffff" 
+          stroke-width="1"/>
+    
+    <!-- Letter V -->
+    <path d="M 45 -90 L 80 60 L 90 60 L 125 -90 L 105 -90 L 85 15 L 65 -90 Z" 
+          fill="#ffffff"/>
+  </g>
+  
+  <!-- Full name below -->
+  <text x="200" y="310" 
+        font-family="'Georgia', serif" 
+        font-size="28" 
+        font-weight="300"
+        fill="#ffffff" 
+        text-anchor="middle"
+        letter-spacing="4">DEEPAK</text>
+  
+  <text x="200" y="345" 
+        font-family="'Georgia', serif" 
+        font-size="20" 
+        font-weight="300"
+        fill="#cccccc" 
+        text-anchor="middle"
+        letter-spacing="6">VISHWAKARMA</text>
+</svg>
